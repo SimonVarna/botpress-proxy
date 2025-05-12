@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const response = await fetch('https://hook.eu2.make.com/YOUR-WEBHOOK-ID', {
+  const response = await fetch('https://hook.eu2.make.com/uuh1vcpooq3w8up7bq809kva2vkg8n99', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
